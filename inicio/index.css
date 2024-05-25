@@ -1,0 +1,211 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px;
+    background-color: #490049;
+    color: #fff;
+}
+.disponible{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    font-size: 30px;
+}
+.ojo{
+    width: 25px;
+    height: 25px;
+}
+.text2{
+    font-size: 20px;
+}
+.text3{
+    font-size: 30px;
+}
+.sec1{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.sec2{
+    display: flex;
+    gap: 15px;
+}
+.imgmenu{
+    width: 20px;
+    height: 20px;
+}
+.sec3{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    background-color: #200020;
+    color: #fff;
+    padding: 30px;
+}
+.text1{
+    display: grid;
+    font-size: 20px;
+}
+.editar{
+    width: 35px;
+    height: 35px;
+}
+.imgcorazon{
+    width: 35px;
+    height: 35px;
+}
+.corazon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    gap: 10px;
+}
+.boton1{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    background-color: #200020;
+    border: 1px solid;
+    color: #fff;
+    border-radius: 5px;
+    padding: 3px;
+    font-size: 20px;
+}
+.imghead{
+    width: 50px;
+    height: 50px;
+}
+.usuario{
+    width: 50px;
+    height: 50px;
+    padding: 2px;
+    background-color: #e28ce278;
+    border-radius: 5px;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 100%;
+    gap: 30px;
+    padding-bottom: 50px;
+}
+.sec4{
+    width: 100%;
+    display: grid;
+    gap: 15px;
+}
+.div1{
+    display: flex;
+    justify-content: space-between;
+    padding: 8px;
+}
+.botones{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 80px;
+}
+.botones1{
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    gap: 10px;
+    font-size: 20px;
+    width: 70px;
+    height: 60px;
+    border: none;
+    background-color: #fff;
+}
+.img1{
+    border-radius: 5px;
+    background-color: #ffffff;
+    padding: 5px 10px;
+    box-shadow: 2px 5px 5px 1px #45454554;
+    width: 70px;
+    height: 70px;
+}
+.img2{
+    width: 70px;
+    height: 70px;
+}
+.sec5{
+    display: grid;
+    gap: 20px;
+    width: 100%;
+    padding-top: 80px;
+}
+.sugeridos{
+    display: flex;
+    justify-content: initial;
+    padding: 8px;
+    font-size: 30px;
+}
+.boton2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+.botones2{
+    border: none;
+    background-color: #fff;
+    display: grid;
+    gap: 10px;
+    font-size: 20px;
+}
+button{
+    cursor: pointer;
+}
+footer{
+    background: url(https://assets-global.website-files.com/6317a229ebf7723658463b4b/6517438232cece313cde5916_bg-footer-mb.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+.boton3{
+    background-color: #fff;
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 20px;
+}
+.imgfooter{
+    width: 50px;
+    height: 50px;
+}
+.moneda{
+    background-color: #ff008c;
+    color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    border: none;
+}
+.botones3{
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    border: none;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
